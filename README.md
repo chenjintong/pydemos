@@ -1,2 +1,2 @@
-# Py Demos
+# Python Demos
 Demos in Python.
